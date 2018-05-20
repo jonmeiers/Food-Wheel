@@ -1,2 +1,2 @@
-# Food-Wheel
-Project for codecademy data analysis class
+# food_wheel_project
+Data analysis project for fictitious food delivery startup
